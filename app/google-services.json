@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518807109923",
+    "firebase_url": "https://infoart-f9a4a.firebaseio.com",
+    "project_id": "infoart-f9a4a",
+    "storage_bucket": "infoart-f9a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518807109923:android:de71c547df01626b",
+        "android_client_info": {
+          "package_name": "com.obt.infoart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518807109923-htm9lv6bic1tlq460rear39ovmib61oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obt.infoart",
+            "certificate_hash": "73f987411cbf08bc4f6cb0a42a6a53627188ed43"
+          }
+        },
+        {
+          "client_id": "518807109923-n16d2muavh16mchsd1ufvnsvtmbbdi31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FrkJDRQCvVGiqEMOmul7UED6WoBKIKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518807109923-n16d2muavh16mchsd1ufvnsvtmbbdi31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

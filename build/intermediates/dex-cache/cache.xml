@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\35bbfbdf21c2e38b9a37ce6ded21fff11fd697fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_311a501e1a22e9b5d2dc9d2c2c10b756c9244c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\072502f12e6d843dbfd9c3b1af0657cb21323b62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ff032f5e1d20ecfe8091f05fde0852b640faeb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2a88c1ef621e7e4e6700d0d21692cd895819c58b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_990ef5289f10feb6102b3e4bb16147db63add8fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\49a53753190d8e9b9143817562580eede32ce9a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e88b917352b48e9f3843f5e89937937026bd089e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\96bb1ad7b2a595978f267e13b87ff3f1094d07b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dba1683c56a619a5a112340e329882db070fa280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d283abc3183291cadf4ee3cf4c75b5d8ad9f9816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91f3e3543e2f81e45422738f6503ed4c6ce97c13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b63c1043604217e2fa3aa600c3118c1ffff8050a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4fc499c1d41a6bf5e91b82990e5f300722b9080a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c5b73dc3c7ac5cc60e5c029da4ebe86459d0b1">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce833c768477afc5e8b4497e74b30a1c225103ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6a643b9fb7de13f66840cad23e7991bd521eb916\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b99fa49de59c3d56b016b658a43ed46e998e026e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\eaa9c03ca4322e2ea34060b40eee4a8bb95747de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b94e6367b1b71a196fa16b81d50368d5a4ce9f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ab8d5878ded477ab8ef5aa4fbd546267a8d8753c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_553d40aa72e6e419f90b0f0dec3a61b443075b26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\704d040f175b12001f3cc886c17cf0dd6d588644\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4380b34ab3854f62567448b26764c5c8ec3879a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\08ed8d7ddc63ff0e53ff9d940cfca2561b0d75a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d6a178c52bb6a16bd753f096fc9f1f31875f79d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b5cb22682bfa129525d5461658af2277df0f20d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03bd68b4d319f1d30ebbb4c8e9c0dc8a62438e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fdc3ffc0d1ed7346b0d3ccd9d7af2cd6002504e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a96ee8e6a64a297fbf9b7f6f6a22647cfc013299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a4925e7ab76606a8e11e6def2e6435a2a58327b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4416825638c4f19616c1a71a01522deddf80542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7e4c8299c19b2a6cf0d76bb0a3d352af8055d2a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c213e9736630787de711769e9bca13b9453f2396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f468b2c60beeb2f479f6d5e4b6d728c9d8ea69f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc8f5b47bc13bdd52ff7a9017ea96ef1aae39ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2ae789accb3f76fb904ef6c4e1b6a3fb122f276c\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_fa47a2cdf6ee558f8536c378072a964691b51ec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7020a2667f912e84e56b04edeb01ac0521671ad2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18fdff75abb0a100b247e2ac7cd78f3c7beea62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6db574f22d1cb602d22b774adb975dfccd8d4168\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_559fc98d12af519af3291e894cff7d56a44f2e2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\20b694065d4c432e3418fa70c9fe5ec0ed9b50d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5389929a0f480fa0f7f9e3a88a991247410be9e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d0fcea32774073a4c28d13011699f31a842f37b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3be0cc85bc92066cfda47810e0befebcebd3a868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ea481408425161d5a1eb7018792b29b1e652cde8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d05001110c1b70e4ced91651ee1a1af1fe9bd179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\bdf980691e1acb3411b52cc2b5186488be359e1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e97a2afb764bf793fd930694109d1a35bb2c721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\78491ac29290c1491d87987ee211f76f05884ae5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8a3a9e62bf31194dc16a7a087ee076d7760c4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\86785162fd4afb1ab98c9bdfdaf8ead4951fc4c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53fb688287160dad0987affa9498eea9e436dbb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\9f4ec9562366558beecdf22fbb6b5dc8f68803d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7478f82e538d989ada5472ea67cee3f06280c269\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a6fc27ff25412a2cddb3663c406f5880cf2063ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a4f27a78cf7bdff885edbc387955edec50ba7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\312d4f03dd1002b942ec113a16a74085a4ae1a70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a87ed4226c7645f757625c42116efe60466be9eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1b9a1a1b010b95933dc1514490fdd2a87346206e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ede6858b9fa14be30c956ca7daf18c4d6bda51ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ab1c47cc135c803bc0b0e47b988d06c96c3e7c59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe4593d0cc76ac6dc131c12b0c388f55f058ceae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_91234850cd6a17a02039216238005dcc2a773533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ae1cbeccc0a546e841b92ca649b4eef34a97d782\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9aa5c780eacc6145e6835cda5e9f89bfa2a5479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4d5cb11292a4a514ee9cd2ff2c6a32ac46e6840b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a47df70cc2dcfb4cd107b43e4bb6e7e5da6b8dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ed97931fefa4b14a0f14ec688a0d1006d93984cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19f5d79db6e58d56e575d1e4c2f31cf1a8999704\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2fbe8284e7179021c0d90efec5a272e65bca63ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55a35dc9c6dedca27be0cc60b3b1777fedf5dd43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\be125b9460938a4b1f079cbca1300fc7b61ff06d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4a4141c6d10eb54c53414ee2254b64e38394637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fe7f1f44cfd0799242a51a7256467c610f592750\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28c1291c2e16f5a7a663fda1a161c217e4b1bf90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2ae789accb3f76fb904ef6c4e1b6a3fb122f276c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4fa55aee4a89cd352cadbe433cc77f42980b6183\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e4e11f3d5b56391ab94b00bd43cf1cc7f1042857\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23e235bab1b6769a460aad98e53dd729cbae99c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d25d6138adfa01ae82272b7bafb1ac9c3dd8ec8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc145500064a4d1604ee3d45d0a5a28d35802660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fae8a23cf75e81c283c0ae4065b02cb357d8f39e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_864be1057e3961bf676cc29f8f4e81068aba51f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4bb71c94b0e177e508ba6ad91fa277abc7a3d86e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c4f044fda291649a8cae086b81b9a65fb4c2346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\90bdb50ade6668ed95e33392eb3a44c7c240ff50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f07d57d4636d9933817e30995a8243cf729dfc25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a55148c87ced6b74c84e69edc7435abe01cb9196\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a528673286eeb09d48394f879e64c01f2a0aecfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\cbeb2b850896801f28e140298c5bd0a5fc9313b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da68317623624a812a9f3d71f5319e86149aa5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e5bd439bf46a5aeb433d100f8e2aa57260a0bd65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22003d2f30a3fadd64bb08c2d5580b9b3409f910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\33aef2f7dd622bc60367828627c00d61e207e173\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b3def4fe96a9d349d78e493ae6dbcf8cc7a5ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\922591ea886e7e5a3582b0fd52314c0fe8c00183\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd75a0e1e511bdc6ddc6f004902535c5c422b74f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\bf132deacc5cfe4a61db48271a2bfc40a35b6577\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bed8885380dd790345fac310a5489135b86681cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\dfba3ef81bc64f4afb995a5ec824c6bb23963c12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59bc3318856abb8af1c1c5819501aebe58c43cff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\07241863bcd3ba0118147105ed454c1bfea4c8a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1b6bd0fa640347ecf3ff6640c9b445720a2e3ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\78d777686eac7e523ed903d349961ba9643a583f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae829c925218a99961d6aa0e5c53eb1091069283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\303fe880860ca4a2482e561ea5b6997a765ded30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_459df48b669aa21a7c881a22ff9159111a47c428\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\992f6982670a13b419dcea3adae0ce9584dce831\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bf84f3f10f93003a509e9702ba343c25bc291af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\ca4b17fd088f42a5ae6bd0ef59ffa7fde2c95cae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57f99f3fd320e519517c43a270c75ca6df255b62">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e2f84470ce82786403458fe214ea442304a9574\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6afa45d63f7c5a0d879809033fab3c5e45cbd0b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ada745f7fa6aab0d9abfcc152c301b3fc419f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f69078f80754b8b06a3af8c691766bc96c4e343a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1181bfe390584978d79af5040323a1a68b4c256b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c2e1c63c7ac4ec8d41b13197df66ac80541e293f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_060ab95d4f8dca7ca4156d90884165a28797d74a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\8fde69d47a804379b6dec70effcb127c60cf44a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f122ce63ac2f512204c508867c271d246769d297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e0fbe25eb038674915366c3db890fe5579dd7458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a75ba0a84a475761260bca692b3d5d958a1bf0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b85433350fdf4de2781e7c505db035ae68f89c99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="C:\Mis documentos\Escritorio\infoArt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_200dbb866ee06838811339b5f08617ce0178d3ea\classes.dex" />
+    </item>
+
+</items>

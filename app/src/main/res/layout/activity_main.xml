@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fondoMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/buttonLanMain"
+         android:layout_width="48dp"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="18dp"
+        android:visibility="visible"
+        android:onClick="onRangingClickedMain"
+         android:textColor="#ffffff"
+         android:textStyle="bold"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/Button1Main"
+        android:layout_width="wrap_content"
+        
+        android:layout_alignLeft="@+id/button2Main"
+        android:layout_above="@+id/button2Main"
+        android:layout_marginBottom="18dp"
+        android:visibility="invisible"
+        android:background="#ff5300"
+        android:textColor="#ffffff"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_height="40sp"
+        android:onClick="onRangingClickedMain"
+        android:text=" Nuevo museo  " />
+
+    <Button
+        android:id="@+id/button2Main"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="40sp"
+        
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="38dp"
+        android:background="#ff7228"
+         android:textColor="#ffffff"
+         android:textSize="17sp"
+         android:textStyle="bold"
+        android:onClick="onRangingClickedMain"
+        android:text=" Selecciona Museo  " />
+
+
+    
+</RelativeLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_audio_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageZoom"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:src="@drawable/trans" />
+
+    <EditText
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageZoom"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:textStyle="bold"
+        android:inputType="textMultiLine"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonLike"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/buttonLike"
+        android:layout_toRightOf="@+id/buttonLike"
+        android:layout_marginLeft="16dp"
+        android:textStyle="italic"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/buttonLike"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageZoom"
+        android:layout_marginLeft="16dp"
+        android:background="@drawable/heart"
+        android:onClick="onRangingClickedView" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="40dp"
+        android:layout_height="52dp"
+        android:layout_alignBottom="@+id/imageZoom"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="52dp"
+        android:onClick="onRangingClickedView"
+        android:background="@drawable/sig" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="40dp"
+        android:layout_height="52dp"
+        android:layout_alignBaseline="@+id/button2"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_alignParentLeft="true"
+        android:onClick="onRangingClickedView"
+        android:background="@drawable/ant" />
+
+</RelativeLayout>

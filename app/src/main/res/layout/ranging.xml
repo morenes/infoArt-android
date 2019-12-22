@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/im1"
+        android:layout_width="165dp"
+        android:layout_height="210dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:alpha="1.0"
+        android:onClick="onImageClicked"
+        android:src="@drawable/trans" />
+
+	 <ImageView
+	     android:id="@+id/im2"
+	     android:layout_toRightOf="@+id/im1"
+	     android:layout_width="165dp"
+	     android:layout_height="185dp"
+	     android:layout_alignParentRight="true"
+	     android:layout_alignParentTop="true"
+	     android:layout_marginTop="60dp"
+	     android:alpha="0.95"
+	     android:onClick="onImageClicked"
+	     android:src="@drawable/trans" />
+
+    <ImageView
+        android:id="@+id/im3"
+        android:layout_width="165dp"
+        android:layout_height="170dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/im1"
+        android:alpha="0.9"
+        android:onClick="onImageClicked"
+         android:src="@drawable/trans" />
+    <ImageView
+        android:id="@+id/im4"
+        android:layout_toRightOf="@+id/im3"
+        android:layout_width="165dp"
+        android:layout_height="135dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/im2"
+        android:alpha="0.82"
+        android:onClick="onImageClicked"
+        android:src="@drawable/trans" />
+
+   
+
+    <ImageView
+        android:id="@+id/im5"
+        android:layout_width="82dp"
+        android:layout_height="90dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/im4"
+        android:layout_toLeftOf="@+id/im6"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.75"
+        android:onClick="onImageClicked"
+        android:src="@drawable/trans" />
+
+    <ImageView
+         android:id="@+id/im6"
+        android:layout_width="82dp"
+        android:layout_height="90dp"
+        android:layout_alignTop="@+id/im5"
+        android:layout_toLeftOf="@+id/im7"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.75"
+        android:onClick="onImageClicked"
+        android:src="@drawable/trans" />
+    <ImageView
+         android:id="@+id/im7"
+        android:layout_width="82dp"
+        android:layout_height="90dp"
+        android:layout_alignTop="@+id/im6"
+        android:layout_toLeftOf="@+id/im8"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.75"
+        android:onClick="onImageClicked"
+        android:src="@drawable/trans" />
+    <ImageView
+         android:id="@+id/im8"
+        android:layout_width="82dp"
+        android:layout_height="90dp"
+        android:layout_alignTop="@+id/im7"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.75"
+        android:onClick="onImageClicked"
+        android:src="@drawable/trans" />
+
+</RelativeLayout>
